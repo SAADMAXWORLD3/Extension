@@ -1,0 +1,10 @@
+
+{
+  "name": "UnityAdsExtension",
+  "description": "Unity Ads Extension for App Inventor",
+  "version": 1,
+  "author": "Your Name",
+  "category": "Monetization",
+  "type": "extension",
+  "platforms": ["android"]
+}
